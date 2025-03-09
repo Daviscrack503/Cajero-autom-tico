@@ -1,0 +1,14 @@
+C:\Users\Davis\Desktop\Cajeroautomatico\Cajeroautomatico\bin\Debug\net8.0\Cajeroautomatico.exe
+C:\Users\Davis\Desktop\Cajeroautomatico\Cajeroautomatico\bin\Debug\net8.0\Cajeroautomatico.deps.json
+C:\Users\Davis\Desktop\Cajeroautomatico\Cajeroautomatico\bin\Debug\net8.0\Cajeroautomatico.runtimeconfig.json
+C:\Users\Davis\Desktop\Cajeroautomatico\Cajeroautomatico\bin\Debug\net8.0\Cajeroautomatico.dll
+C:\Users\Davis\Desktop\Cajeroautomatico\Cajeroautomatico\bin\Debug\net8.0\Cajeroautomatico.pdb
+C:\Users\Davis\Desktop\Cajeroautomatico\Cajeroautomatico\obj\Debug\net8.0\Cajeroautomatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davis\Desktop\Cajeroautomatico\Cajeroautomatico\obj\Debug\net8.0\Cajeroautomatico.AssemblyInfoInputs.cache
+C:\Users\Davis\Desktop\Cajeroautomatico\Cajeroautomatico\obj\Debug\net8.0\Cajeroautomatico.AssemblyInfo.vb
+C:\Users\Davis\Desktop\Cajeroautomatico\Cajeroautomatico\obj\Debug\net8.0\Cajeroautomatico.vbproj.CoreCompileInputs.cache
+C:\Users\Davis\Desktop\Cajeroautomatico\Cajeroautomatico\obj\Debug\net8.0\Cajeroautomatico.dll
+C:\Users\Davis\Desktop\Cajeroautomatico\Cajeroautomatico\obj\Debug\net8.0\refint\Cajeroautomatico.dll
+C:\Users\Davis\Desktop\Cajeroautomatico\Cajeroautomatico\obj\Debug\net8.0\Cajeroautomatico.pdb
+C:\Users\Davis\Desktop\Cajeroautomatico\Cajeroautomatico\obj\Debug\net8.0\Cajeroautomatico.genruntimeconfig.cache
+C:\Users\Davis\Desktop\Cajeroautomatico\Cajeroautomatico\obj\Debug\net8.0\ref\Cajeroautomatico.dll

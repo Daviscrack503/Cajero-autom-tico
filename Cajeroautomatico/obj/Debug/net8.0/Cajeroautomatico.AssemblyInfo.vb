@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Cajeroautomatico"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cee9834ace128ebf67979a2036327f02a1e715c"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Cajeroautomatico"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Cajeroautomatico"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

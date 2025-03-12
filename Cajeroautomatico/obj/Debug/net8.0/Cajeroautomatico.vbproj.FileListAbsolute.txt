@@ -12,3 +12,4 @@ C:\Users\Davis\Desktop\Cajeroautomatico\Cajeroautomatico\obj\Debug\net8.0\refint
 C:\Users\Davis\Desktop\Cajeroautomatico\Cajeroautomatico\obj\Debug\net8.0\Cajeroautomatico.pdb
 C:\Users\Davis\Desktop\Cajeroautomatico\Cajeroautomatico\obj\Debug\net8.0\Cajeroautomatico.genruntimeconfig.cache
 C:\Users\Davis\Desktop\Cajeroautomatico\Cajeroautomatico\obj\Debug\net8.0\ref\Cajeroautomatico.dll
+C:\Users\Davis\Desktop\Cajeroautomatico\Cajeroautomatico\obj\Debug\net8.0\Cajeroautomatico.sourcelink.json
